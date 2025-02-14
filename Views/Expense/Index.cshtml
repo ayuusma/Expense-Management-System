@@ -1,0 +1,40 @@
+﻿@model IEnumerable<ExpenseManagementSystem.Models.Expense>
+
+<h2>Your Expenses</h2>
+<a class="btn btn-success" href="/Expense/Create">+ Add Expense</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Description</th>
+            <th>Amount</th>
+            <th>Category</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var expense in Model)
+            {
+                <tr>
+                    <td>@expense.Description</td>
+                    <td>Rs. @expense.Amount.ToString("N2")</td>
+                    <td>@expense.Category</td>
+                    <td>@expense.Date.ToShortDateString()</td>
+                    <td>
+                        <a href="/Expense/Edit/@expense.Id" class="btn btn-warning">Edit</a>
+                        <a href="/Expense/Delete/@expense.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5" class="text-center">No expenses found.</td>
+            </tr>
+        }
+    </tbody>
+</table>

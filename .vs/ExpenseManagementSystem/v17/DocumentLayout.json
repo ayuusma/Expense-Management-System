@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\views\\expense\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:views\\expense\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\views\\expense\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:views\\expense\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\views\\expense\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:views\\expense\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\views\\expense\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:views\\expense\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\expensemanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:expensemanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|c:\\users\\lenovo\\source\\repos\\expensemanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF7F0ED-A198-4B45-86AA-BD96EAB76B9C}|ExpenseManagementSystem.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:15:10.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T07:55:26.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T04:21:03.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Expense\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expense\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Expense\\Create.cshtml",
+              "RelativeToolTip": "Views\\Expense\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T03:45:39.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Models\\Expense.cs",
+              "RelativeToolTip": "Models\\Expense.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:46:25.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Expense\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expense\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Expense\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Expense\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T04:00:32.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Expense\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expense\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Expense\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Expense\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T03:20:27.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T05:53:24.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:04:22.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Expense\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Expense\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Expense\\Index.cshtml",
+              "RelativeToolTip": "Views\\Expense\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T03:17:25.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T05:52:39.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T08:16:45.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T05:58:54.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:18:30.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T04:31:27.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T05:58:50.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:02:11.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExpenseManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\ExpenseManagementSystem.csproj",
+              "RelativeDocumentMoniker": "ExpenseManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\ExpenseManagementSystem.csproj",
+              "RelativeToolTip": "ExpenseManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T09:32:22.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ExpenseManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:49:48.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
